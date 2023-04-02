@@ -8,4 +8,6 @@ Found in the "Issues" tab of this repository are annotations I have made about w
 <br>
 I created 3 "Issues".<br>
 <br>
-To mentioned every possible technical error or opportunity, would take many hours for this, and or site. in practice, I understand how to prioritize the find and resolving of these technical SEO bugs/opportunities.
+To mentioned every possible technical error or opportunity, would take many hours for this, and or site.<br>
+<br>
+In practice, I understand how to prioritize the find and resolving of these technical SEO bugs/opportunities.
