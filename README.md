@@ -6,4 +6,6 @@ The live/updated source code of this site (or any site) can be found by placing 
 <br>
 Found in the "Issues" tab of this repository are annotations I have made about what can be improved in the code. In this case, because I assume Wix is a fairly non-customizable (non code-editing friendly) CMS, some of these changes will be impossible. Im sure however, that some of them could be achived within the Wix platform. I give another tip-of-the-hat to Webflow here... it offers complete code-editing capabilities.<br>
 <br>
-I created 3 "Issues".
+I created 3 "Issues".<br>
+<br>
+To mentioned every possible technical error or opportunity, would take many hours for this, and or site. in practice, I understand how to prioritize the find and resolving of these technical SEO bugs/opportunities.
