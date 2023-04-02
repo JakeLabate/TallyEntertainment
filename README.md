@@ -1,6 +1,6 @@
 # Tally Entertainment
 
-The index.html file is the source code for https://www.tallyentertainment.com. It is the static code that their CMS (Wix) produced in order to make the website function.<br>
+The index.html file is in the 'browse code' tab is the source code for https://www.tallyentertainment.com. It is the static code that their CMS (Wix) produces in order to render the website.<br>
 <br>
 The live/updated source code of this site (or any site) can be found by placing 'view-source:' in front of the website URL (usually cannot be done on a mobile phone). So, this code was retreived at 'view-source:https://www.tallyentertainment.com'.<br>
 <br>
